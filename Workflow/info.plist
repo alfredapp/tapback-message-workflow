@@ -667,7 +667,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>## Usage 
+	<string>## Usage
 
 Send a tapback to the current message via the `tapback` keyword.
 
