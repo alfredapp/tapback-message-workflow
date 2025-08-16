@@ -4,7 +4,7 @@ Add a tapback reaction to the current message
 
 [⤓ Install on the Alfred Gallery](https://alfred.app/workflows/alfredapp/tapback-message)
 
-## Usage 
+## Usage
 
 Send a tapback to the current message via the `tapback` keyword.
 
